@@ -22,8 +22,8 @@ Mark Magaling - magaling.markizm@gmail.com
 
 
 ### Example
-Add testid 212779 to client division:
-.app.py -t 212779 -d client
+##### Add testid 212779 to client division:
+$ .app.py -t 212779 -d client
 
 ### Notes
 
