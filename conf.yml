@@ -1,0 +1,25 @@
+##Client Division
+client_div: 1143
+team_product: 3696
+apps_product: 7038
+staging_product: 7432 
+
+##Non-prod Division
+non_prod_div: 2605 
+ops_product: 8972
+
+##Team 1 Division
+uno_div: 2655
+uno_product: 9987
+
+##Team 2 Division
+dos_div: 2803
+dos_product: 9826
+
+tokens: https://io.catchpoint.com/ui/api/token
+tests: https://io.catchpoint.com/ui/api/v1/products
+products: https://io.catchpoint.com/ui/api/v1/products
+folders: https://io.catchpoint.com/ui/api/v1/folders
+nodes: https://io.catchpoint.com/ui/api/v1/nodes
+nodegroups: https://io.catchpoint.com/ui/api/v1/nodeGroups
+favcharts: https://io.catchpoint.com/ui/api/v1/performance/favoriteCharts
